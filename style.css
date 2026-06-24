@@ -1,11 +1,11 @@
 header{
     background-color: purple;
-    color: darkblue;
+    color: rgb(255, 255, 255);
     text-align: center;
 }
 
 main{
-    background-color: darkblue;
+    background-color: rgb(255, 255, 255);
     color:purple;
     text-align: center;
 }
